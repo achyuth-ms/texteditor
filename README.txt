@@ -42,12 +42,3 @@ Evaluating case: Hello friends
 100 text retrieval operations took 0.0010046 s
 100 mispelling operations took 0.0011393 s
 
-
-Extensions:
-
-Implemented tree or trie data structure. 
-
-Could have tried to develop a proper testing tool which can test the code considering all the cases including various edge cases also.
-
-Could have added more functionality to the benchmark rather than just basic operations like cut, copy, paste.
-
